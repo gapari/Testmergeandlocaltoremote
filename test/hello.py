@@ -1,8 +1,2 @@
 print('keep playing')
 print('Hello people')
-print('another line in future2')
-print('test with merge')
-print('Testin with undo')
-print('remove later')
-print('added1')
-print('adding secondline')
