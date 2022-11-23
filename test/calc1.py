@@ -9,6 +9,6 @@ div = float(num1) / float(num2)
 
 # display the result 
 print('print the sum of {0} and {1} is {2}'.format(num1,num2,sum))
-print('print the diff of {0} and {1} is {2}'.format(num1,num2,sum))
-print('print the mul of {0} and {1} is {2}'.format(num1,num2,sum))
-print('print the div of {0} and {1} is {2}'.format(num1,num2,sum))
+print('print the diff of {0} and {1} is {2}'.format(num1,num2,diff))
+print('print the mul of {0} and {1} is {2}'.format(num1,num2,mul))
+print('print the div of {0} and {1} is {2}'.format(num1,num2,div))
