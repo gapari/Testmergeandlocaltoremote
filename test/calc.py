@@ -1,6 +1,6 @@
 #proram to manipulate two commans
-num1 = 6.6
-num2 = 2.2
+num1 = input('Enter first number:')
+num2 = input('Enter second number:')
 #calc operations
 sum = float(num1) + float(num2)
 # display the result 
